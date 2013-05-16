@@ -1,0 +1,1 @@
+require 'yito/social/ysd_md_content_user'
